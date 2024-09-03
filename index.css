@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    border: 1px solid #FFFFFF;
+    width: 1440px;
+    height: 72px;
+}
+
+.lakatsiyaimg {
+    width: 11.67px;
+    height: 16.67px;
+    margin-top:  1.67px ;
+    margin-left: 4.17px;
+}
+
+.navbar2 {
+    border: 1px solid #FFFFFF;
+    width: 1440px;
+    height: 72px;
+}
+
+.logo {
+    width: 207px;
+    height: 41px;
+    margin-top: 18px;
+    margin-left: 154px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    width: 484 px;
+    height: 19px;
+    margin-top: -29px;
+    margin-left: 478px;
+    gap: 46px;
+    color: #333333;
+}
+
+button {
+    width: 179px;
+    height: 40px;
+    margin-top: -39px;
+    margin-left: 1096px;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: #FFFFFF;
+    background-color: #4762FF;
+    border-radius: 5px;
+}
+
+.chiziq {
+    width: 1110px;
+    margin-top: 71.25px;
+    margin-left: 165px;
+    border: 1px solid #3333331A;
+}
+
+.carimg {
+    width: 1176px;
+    height: 529px;
+    margin-left: 644px;
+}
+
+.gap1 {
+    font-family: inter;
+    width: 700px;
+    font-size: 60px;
+    line-height: 76px;
+    margin-top: 26px;
+    margin-left: 165px;
+    color: #333333;
+    gap: 32px;
+}
+
+.gap2 {
+    font: inter;
+    font-size: 18px;
+    line-height: 21.78px;
+    color: #333333CC;
+    margin-left: 165px;
+}
+
+.a1 {
+    width: 648px;
+    height: 48px;
+    margin-top: 29px;
+    margin-left: 396px;
+    font-size: 40px;
+    text-align: center;
+    color:#333333 ;
+}
+
+.a2 {
+    width: 540px;
+    height: 44px;
+    margin-top: 25px;
+    margin-left: 450px;
+    font-size: 18px;
+    text-align: center;
+    color: #333333CC;
+}
+
+.services {
+    width: 505px;
+    height: 287px;
+    margin-top: 27px;
+    margin-left: 197px;
+    border-radius: 9px;
+    background-color: #F4F6FA;
+}
+
+.a4 {
+    font-size: 16px;
+    color: #333333CC;
+    margin-top: 8px;
+}
+
+.services2 {
+    width: 505px;
+    height: 287px;
+    margin-top: -289px;
+    margin-left: 738px;
+    border-radius: 9px;
+    background-color: #F4F6FA;
+}
+
+.services3 {
+    width: 505px;
+    height: 287px;
+    position: relative;
+    top: 30px;
+    left: 197px;
+    border-radius: 9px;
+    background-color: #F4F6FA ;
+}
+
+.services4 {
+    width: 505px;
+    height: 287px;
+    position: relative;
+    top: -255px;
+    left: 738px;
+    border-radius: 9px;
+    background-color: #F4F6FA ;
+}
+
+.a7 {
+    font-size: 24px;
+    color: #333333;
+
+}
+
+.a8 {
+    font-size: 16px;
+    color: #333333CC;
+    top: 98px;
+    left: 28px;
+}
+
+.a9 {
+    font-size: 24px;
+    color: #333333;
+}
+
+.a10 {
+    font-size: 16px;
+    color: #333333CC;
+}
+
+.orta1 {
+    margin-top: 67px;
+    margin-left: 165px;
+    gap: 16px;
+}
+
+.a11 {
+font-size: 48px;
+color: #333333;
+}
+
+.a12 {
+font-size: 18px;
+color: #333333CC;
+}
